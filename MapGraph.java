@@ -25,7 +25,7 @@ import util.GraphLoader;
 import roadgraph.DijkstraComparator;
 
 /**
- * @author UCSD MOOC development team and YOU
+ * @author UCSD MOOC development team and Ben Dauer
  * 
  * A class which represents a graph of geographic locations.
  * 
